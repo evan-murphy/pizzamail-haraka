@@ -1,0 +1,10 @@
+{
+  "accessKeyId": "evan-m",
+  "secretAccessKey": "EV00",
+  "region": "us-west-2",
+  "s3Bucket": "s3-bucket-name",
+  "zipBeforeUpload": true,
+  "fileExtension": ".eml.raw.gzip",
+  "copyAllAddresses": true,
+  "validDomains" : ["freshpizza.email"]
+}
